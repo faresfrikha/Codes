@@ -1,0 +1,1 @@
+min sum of diff in teams of 4 (4*n)

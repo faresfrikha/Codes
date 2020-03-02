@@ -1,0 +1,2 @@
+write a code that will print all the palindromic substrings in a given string s.
+|s| <100.

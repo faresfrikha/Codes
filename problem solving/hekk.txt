@@ -1,0 +1,26 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+typedef long long ll;
+typedef vector<ll> vl ;
+
+#define mp make_pair
+#define pb push_back
+#define f first
+#define s second
+#define all(v) (v).begin(),(v).end()
+
+const int MOD = 1000000007;
+const int N = 1000005;
+const double PI =4*atan(1);
+
+
+int main(){
+    ios::sync_with_stdio(0);
+    //freopen("baklava.in","r",stdin);
+    cin.tie(0);
+    cout.tie(0);
+    //start
+
+    return 0;
+}

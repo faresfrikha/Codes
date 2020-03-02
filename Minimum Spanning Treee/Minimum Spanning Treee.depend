@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1562285738 source:d:\codes\minimum spanning treee\main.cpp
+	<iostream>
+	<vector>
+	<utility>
+	<algorithm>
+

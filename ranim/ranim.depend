@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542060806 source:d:\codes\ranim\main.c
+	<stdio.h>
+	<string.h>
+

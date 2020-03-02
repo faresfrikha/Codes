@@ -1,0 +1,27 @@
+bfs -- bfs-grid -- dfs -- dijkstra -- Euler Tour -- Floyd Warshall -- graph -- 
+	lca -- spanning tree --  topo sort  --  tree --  
+binary search --  divide and conquer 
+brute force -- 
+dp -- greedy -- lcs subseq -- lis --  
+palindromes  --  pattern matching -- 
+DSU -- 
+meet in the middle  -- 
+matrix  -- matrix exponentiation -- 
+Euler Function --  factorization (pollard rho )  -- number theory  -- 
+fenwick tree -- MO -- offline --  segment tree --  
+Game theory -- 
+implementation -- sortings -- 
+priority_queue --  queue -- stack -- 
+RMQ -- suffix array -- trie -- 
+Two pointers --  
+z-function  --  
+https://codeforces.com/problemset/problem/431/C
+https://codeforces.com/problemset/problem/1139/C
+https://codeforces.com/problemset/problem/982/C
+https://codeforces.com/problemset/problem/346/B
+https://codeforces.com/problemset/problem/91/B
+https://codeforces.com/contest/729/problem/C
+
+Comma separated list of algorithms/datastructures that you know fairly? Possible ones: Backtrack Binary Search Ternary Search meet in middle Segment Tree Binary indexed heavy light decomposition mo's Algorithm Trie Suffix Array Aho-Corasic nim, grundy dp optimizations (d&c, convex_hull, knuth) dp (counting, probability, bitmasks) trigonometry Convex hull sweep line bellmanford dijkstra flows dfs/bfs floyd W dsu dsu-on-trees euler tour lca mst scc 2-sat diophantine extended gcd mod inv crt inclusion-exclusion gaussian elimination sieve matrix pow totient mobius
+
+https://www.spoj.com/problems/ARBITRAG/

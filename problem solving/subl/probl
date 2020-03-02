@@ -1,0 +1,63 @@
+https://ideone.com/3t9Kym
+https://ideone.com/rDHKzT
+https://ideone.com/RhWUSB
+https://ideone.com/JeGxfj
+https://ideone.com/qbZXiJ
+https://ideone.com/9qCYWl
+https://www.spoj.com/problems/OPCPIZZA/
+https://www.spoj.com/problems/CODFURY/
+https://codeforces.com/contest/769/problem/B
+https://codeforces.com/problemset/problem/1133/C
+https://codeforces.com/problemset/problem/161/A
+https://codeforces.com/problemset/problem/224/B
+https://ideone.com/aegxio
+https://ideone.com/36YkMn
+https://codeforces.com/contest/769/submission/51839513
+https://codeforces.com/contest/1133/submission/50982675
+https://codeforces.com/contest/161/submission/51144702
+https://codeforces.com/contest/224/submission/51839795
+dp:
+https://codeforces.com/problemset/problem/702/A
+https://codeforces.com/problemset/problem/368/B
+https://www.spoj.com/problems/ALTSEQ/
+https://www.spoj.com/problems/KNAPSACK/
+https://codeforces.com/problemset/problem/455/A
+https://codeforces.com/contest/702/submission/51867990
+https://codeforces.com/contest/368/submission/51868093
+https://ideone.com/hgL0pp
+https://ideone.com/CGiSvp
+https://codeforces.com/contest/455/submission/51869347
+dfs:
+https://codeforces.com/problemset/problem/1020/B
+https://codeforces.com/problemset/problem/727/A
+https://codeforces.com/problemset/problem/1033/A
+https://codeforces.com/problemset/problem/910/A
+https://www.spoj.com/problems/BUGLIFE/ (bipartie graph)
+https://codeforces.com/contest/1020/submission/51911600
+https://codeforces.com/contest/727/submission/51911772
+https://codeforces.com/contest/1033/submission/51912372
+https://codeforces.com/contest/910/submission/51912531
+https://ideone.com/Qomtu9
+strings:
+https://codeforces.com/problemset/problem/339/A
+https://codeforces.com/problemset/problem/977/B
+https://codeforces.com/problemset/problem/1111/A
+https://codeforces.com/problemset/problem/1005/B
+https://codeforces.com/problemset/problem/978/B
+https://codeforces.com/contest/798/problem/B
+https://codeforces.com/contest/339/submission/51938125
+(https://codeforces.com/contest/977/submission/51938308
+https://codeforces.com/contest/977/submission/51938292)
+https://codeforces.com/contest/1111/submission/51938474
+https://codeforces.com/contest/1005/submission/51938635
+https://codeforces.com/contest/978/submission/51938749
+https://codeforces.com/contest/798/submission/51939061
+//
+1-you have infinity of coins with values 2**i for all i positive integers
+and you are going to buy some items , what is the mimum NUMBER of coins you are going to spend(2 pieces)
+2-sum of pairs and impairs with bit and update 
+3- how many numbers p <= m such that exsts q  and r such q*m = 1 + p*r
+4-  graph with path divisible by x (mimimum x and length of the path );
+prime query -update with bit
+test all 1 in prefix query
+xor subarrays

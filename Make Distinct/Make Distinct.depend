@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540043700 source:d:\codes\make distinct\main.cpp
+	<cstdio>
+	<algorithm>
+

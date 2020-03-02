@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1546614143 source:d:\codes\farah\main.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+

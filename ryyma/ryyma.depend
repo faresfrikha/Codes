@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544783096 source:d:\codes\ryyma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,9 @@
+n=int(input())
+l=list(map(int,input().split()))
+m=list(map(int,input().split()))
+a=min(l)
+b=min(m)
+if(a<b):
+    print(a)
+else:
+    print(10)
