@@ -1,0 +1,4 @@
+ch = input()
+ch=ch[1:]
+ch=int(ch)
+print(ch%2)
